@@ -1,0 +1,16 @@
+[
+{
+  "modid": "alpha",
+  "name": "Alpha Mod",
+  "description": "Kilian's minecraft mode.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Kilian Stockinger"],
+  "credits": "Thanks to all who provided a tutorial",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

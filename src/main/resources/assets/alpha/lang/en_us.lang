@@ -1,0 +1,19 @@
+item.Alpha.name=Alpha Ingot
+tile.Alphaston.name=Alpha Ore
+itemGroup.tabalpha=Mod Alpha
+tile.bloctransparent.name=Invisible Block
+tile.Alphablock.name=Block of Alpha
+item.casqueAlpha.name=Alpha Helmet
+item.pantalonAlpha.name=Alpha Trousers
+item.plastronAlpha.name=Alpha Chest Protector
+item.bootAlpha.name=Alpha Boots
+item.piocheAlpha.name=Alpha Pickaxe
+item.epeeAlpha.name=Alpha Sword
+item.Itemvert.name=Grassium Ingot
+tile.Blockvert.name=Grassium Ore
+item.casquegrassium.name=Helmet in Grassium
+item.plastrongrassium.name=Chestpiece in Grassium
+item.pantalongrassium.name=Trousers in Grassium
+item.bootgrassium.name=Boots in Grassium
+item.banane.name=Banana
+
